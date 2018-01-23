@@ -1,0 +1,8 @@
+{
+    "id": "a1b2c3d4",
+    "balance": "1.100",
+    "hold": "0.100",
+    "available": "1.00",
+    "currency": "USD",
+    "profile_id": "fakeprofile"
+}
