@@ -4,7 +4,7 @@ Version: 0.0.1
 Authors@R: person("Robert","Zamora", email = "zamora.rr@gmail.com", role = c("aut", "cre"))
 Description: An unofficial GDAX R library. Provides collection of helper 
   functions for querying GDAX API and parsing response.
-Depends: R (>= 3.4.3)
+Depends: R (>= 3.3.0)
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
