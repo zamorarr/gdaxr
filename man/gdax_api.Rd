@@ -28,7 +28,7 @@ Make request to GDAX
 }
 \examples{
 \dontrun{
-gdax_get("accounts", query = list(date = "2017-01-01"))
+gdax_get("accounts")
 }
 }
 \keyword{internal}

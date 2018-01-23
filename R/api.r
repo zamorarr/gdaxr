@@ -7,7 +7,7 @@
 #' @keywords internal
 #' @examples
 #' \dontrun{
-#' gdax_get("accounts", query = list(date = "2017-01-01"))
+#' gdax_get("accounts")
 #' }
 gdax_api <- function(endpoint, method = c("get", "post", "put", "delete"), ...) {
   stopifnot(length(endpoint) == 1L)
