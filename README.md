@@ -11,7 +11,7 @@ Please see the official [GDAX API reference](https://docs.gdax.com/) for more in
 ## Example usage
 ```R
 library(gdaxr)
-accounts <- gdax_get("accounts")
+accounts <- get_accounts()
 
 # look at first account
 accounts[[1]]
